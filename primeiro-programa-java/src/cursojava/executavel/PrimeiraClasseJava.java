@@ -5,7 +5,7 @@ public class PrimeiraClasseJava {
 	/*Main é um metodo auto executável em java*/
  public static void main(String[] args) {
 	 
-	 /*escreve texto no consolennnnnnadfasfasfsd*/
+	 /*escreve texto no consolennnnnnadfasfasfsdasdfasfsafsafasd*/
 	System.out.println("Meu primeiro programa em Java do Curso Fromação Java Web ");
  }
 }
